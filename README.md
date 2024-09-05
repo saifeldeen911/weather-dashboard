@@ -16,8 +16,8 @@ A minimalist React-based Weather Dashboard application that allows users to fetc
 
 1. Clone the repository:
 
-`git clone https://github.com/saifeldeen911/weather-dashboard.git`
-`cd weather-dashboard`
+``git clone https://github.com/saifeldeen911/weather-dashboard.git
+cd weather-dashboard``
 
 2. Install dependencies:
 
